@@ -26,3 +26,5 @@ def make_app(settings: Settings) -> FastAPI:
         return 'build/index.html'
 
     return app
+
+print('test 1234234534654567548376759438678945376398457693')
